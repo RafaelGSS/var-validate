@@ -1,5 +1,6 @@
 # var-validate
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
+[![Actions Status](https://github.com/RafaelGSS/var-validate/.github/workflows/action.yml/badge.svg)](https://github.com/RafaelGSS/var-validate/actions)
 
 Just validate some things. :star:
 
