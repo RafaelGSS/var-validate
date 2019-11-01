@@ -4,7 +4,7 @@
   "description": "Validate some variables",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RafaelGSS/var-validate/issues"
   },
-  "homepage": "https://github.com/RafaelGSS/var-validate#readme"
+  "homepage": "https://github.com/RafaelGSS/var-validate#readme",
+  "devDependencies": {
+    "tap": "^14.9.1"
+  }
 }
